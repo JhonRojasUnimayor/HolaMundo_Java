@@ -18,6 +18,8 @@ public class HolaMundo_java {
         
         
         System.out.println("holaMundo");
+        
+        System.out.println("holaMundo2");
     }
     
 }
